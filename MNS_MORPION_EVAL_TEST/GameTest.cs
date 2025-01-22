@@ -1,7 +1,9 @@
-namespace MNS_MORPION_EVAL;
+using MNS_MORPION_EVAL;
+
+namespace MNS_MORPION_EVAL_TEST;
 
 [TestClass]
-public class GameTests
+public class GameTest
 {
     private Game _game;
 
